@@ -1,9 +1,9 @@
 const cacheName = "Balcony Labs-Haute Fries-0.1.3";
 const contentToCache = [
     "Build/web-pwa.loader.js",
-    "Build/web-pwa.framework.js.br",
-    "Build/web-pwa.data.br",
-    "Build/web-pwa.wasm.br",
+    "Build/web-pwa.framework.js",
+    "Build/web-pwa.data",
+    "Build/web-pwa.wasm",
     "TemplateData/style.css"
 
 ];
