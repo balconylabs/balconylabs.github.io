@@ -1,26 +1,11 @@
 {
-  "name": {
-    {
-      { JSON.stringify(PRODUCT_NAME)
-      }
-    }
-  },
-  "short_name": {
-    {
-      { JSON.stringify(PRODUCT_NAME)
-      }
-    }
-  },
+  "name": "Haute Fries",
+  "short_name": "Haute Fries",
   "start_url": "index.html",
   "display": "fullscreen",
   "background_color": "#FFFFFF",
   "theme_color": "#fff",
-  "description": {
-    {
-      { JSON.stringify(PRODUCT_DESCRIPTION)
-      }
-    }
-  },
+  "description": "Haute Fries",
   "icons": [
     {
       "src": "haute_fries_icon_192.png",
