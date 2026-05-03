@@ -1,4 +1,4 @@
-const cacheName = "Balcony Labs-Haute Fries-0.1.4";
+const cacheName = "Balcony Labs-Haute Fries-0.1.6";
 const contentToCache = [
     "Build/web-pwa.loader.js",
     "Build/web-pwa.framework.js",
