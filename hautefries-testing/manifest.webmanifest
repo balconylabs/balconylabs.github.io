@@ -1,0 +1,23 @@
+{
+  "name": "Haute Fries",
+  "short_name": "Haute Fries",
+  "start_url": "index.html",
+  "display": "fullscreen",
+  "background_color": "#FFFFFF",
+  "theme_color": "#fff",
+  "description": "Haute Fries",
+  "icons": [
+    {
+      "src": "haute_fries_icon_192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "haute_fries_icon_512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
